@@ -1,0 +1,10 @@
+{
+    "card_id" : "036367a7e7e6",
+    "name" : "monster-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/monster-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/monster-card",
+    "status" : "deprecated"
+}
