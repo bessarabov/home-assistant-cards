@@ -1,0 +1,9 @@
+{
+    "card_id" : "81412998b3b6",
+    "name" : "slider-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-slider-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-slider-entity-row"
+}

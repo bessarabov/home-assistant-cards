@@ -1,0 +1,9 @@
+{
+    "card_id" : "d2586d4fa868",
+    "name" : "simple-thermostat",
+    "repo" : {
+        "clone_url" : "https://github.com/nervetattoo/simple-thermostat.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/nervetattoo/simple-thermostat"
+}

@@ -1,0 +1,9 @@
+{
+    "card_id" : "6296c4f80e92",
+    "name" : "multiple-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/benct/lovelace-multiple-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/benct/lovelace-multiple-entity-row"
+}

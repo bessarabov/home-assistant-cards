@@ -1,0 +1,9 @@
+{
+    "card_id" : "506adf4b4f79",
+    "name" : "mini-graph-card",
+    "repo" : {
+        "clone_url" : "https://github.com/kalkih/mini-graph-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/kalkih/mini-graph-card"
+}

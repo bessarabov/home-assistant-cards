@@ -1,0 +1,9 @@
+{
+    "card_id" : "af4684002036",
+    "name" : "animated-consumption-card",
+    "repo" : {
+        "clone_url" : "https://github.com/bessarabov/animated-consumption-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/bessarabov/animated-consumption-card"
+}

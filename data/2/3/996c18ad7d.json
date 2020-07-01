@@ -1,0 +1,9 @@
+{
+    "card_id" : "23996c18ad7d",
+    "name" : "template-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-template-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-template-entity-row"
+}

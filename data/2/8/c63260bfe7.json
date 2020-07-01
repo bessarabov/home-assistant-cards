@@ -1,0 +1,9 @@
+{
+    "card_id" : "28c63260bfe7",
+    "name" : "weasley-card",
+    "repo" : {
+        "clone_url" : "https://github.com/malcolmrigg/WizardClock.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/malcolmrigg/WizardClock"
+}

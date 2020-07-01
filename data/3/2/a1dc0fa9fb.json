@@ -1,0 +1,9 @@
+{
+    "card_id" : "32a1dc0fa9fb",
+    "name" : "button-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/button-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/button-card"
+}

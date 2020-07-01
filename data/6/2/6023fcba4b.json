@@ -1,0 +1,9 @@
+{
+    "card_id" : "626023fcba4b",
+    "name" : "layout-card",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-layout-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-layout-card"
+}

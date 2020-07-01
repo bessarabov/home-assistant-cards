@@ -1,0 +1,9 @@
+{
+    "card_id" : "4e0dec914534",
+    "name" : "auto-entities",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-auto-entities.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-auto-entities"
+}

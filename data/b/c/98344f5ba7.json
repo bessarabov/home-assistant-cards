@@ -1,0 +1,9 @@
+{
+    "card_id" : "bc98344f5ba7",
+    "name" : "bar-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/bar-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/bar-card"
+}

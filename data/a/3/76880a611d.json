@@ -1,0 +1,9 @@
+{
+    "card_id" : "a376880a611d",
+    "name" : "state-switch",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-state-switch.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-state-switch"
+}
