@@ -5,5 +5,6 @@
         "clone_url" : "https://github.com/thomasloven/lovelace-slider-entity-row.git",
         "type" : "github"
     },
-    "site" : "https://github.com/thomasloven/lovelace-slider-entity-row"
+    "site" : "https://github.com/thomasloven/lovelace-slider-entity-row",
+    "status" : "active"
 }

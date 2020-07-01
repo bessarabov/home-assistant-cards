@@ -5,5 +5,6 @@
         "clone_url" : "https://github.com/thomasloven/lovelace-template-entity-row.git",
         "type" : "github"
     },
-    "site" : "https://github.com/thomasloven/lovelace-template-entity-row"
+    "site" : "https://github.com/thomasloven/lovelace-template-entity-row",
+    "status" : "active"
 }

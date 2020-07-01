@@ -5,5 +5,6 @@
         "clone_url" : "https://github.com/benct/lovelace-multiple-entity-row.git",
         "type" : "github"
     },
-    "site" : "https://github.com/benct/lovelace-multiple-entity-row"
+    "site" : "https://github.com/benct/lovelace-multiple-entity-row",
+    "status" : "active"
 }
