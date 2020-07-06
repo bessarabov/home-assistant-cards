@@ -1,0 +1,10 @@
+{
+    "card_id" : "515582b7bdab",
+    "name" : "zigbee2mqtt-networkmap",
+    "repo" : {
+        "clone_url" : "https://github.com/azuwis/zigbee2mqtt-networkmap,.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/azuwis/zigbee2mqtt-networkmap,",
+    "status" : "active"
+}

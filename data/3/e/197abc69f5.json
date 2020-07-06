@@ -1,0 +1,10 @@
+{
+    "card_id" : "3e197abc69f5",
+    "name" : "simple-weather-card",
+    "repo" : {
+        "clone_url" : "https://github.com/kalkih/simple-weather-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/kalkih/simple-weather-card",
+    "status" : "active"
+}

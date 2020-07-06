@@ -1,0 +1,10 @@
+{
+    "card_id" : "66a86e2cae55",
+    "name" : "github-card",
+    "repo" : {
+        "clone_url" : "https://github.com/ljmerza/github-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/ljmerza/github-card",
+    "status" : "active"
+}

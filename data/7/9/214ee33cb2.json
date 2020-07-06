@@ -1,0 +1,10 @@
+{
+    "card_id" : "79214ee33cb2",
+    "name" : "restriction-card",
+    "repo" : {
+        "clone_url" : "https://github.com/iantrich/restriction-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/iantrich/restriction-card",
+    "status" : "active"
+}

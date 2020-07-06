@@ -1,0 +1,10 @@
+{
+    "card_id" : "ddd96d30cbd2",
+    "name" : "floorplan-card",
+    "repo" : {
+        "clone_url" : "https://github.com/pkozul/lovelace-floorplan.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/pkozul/lovelace-floorplan",
+    "status" : "active"
+}
