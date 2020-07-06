@@ -1,0 +1,10 @@
+{
+    "card_id" : "43d972ccf0da",
+    "name" : "roomba-vacuum-card",
+    "repo" : {
+        "clone_url" : "https://github.com/jeremywillans/lovelace-roomba-vacuum-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/jeremywillans/lovelace-roomba-vacuum-card",
+    "status" : "active"
+}

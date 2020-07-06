@@ -1,0 +1,10 @@
+{
+    "card_id" : "6879d0117f03",
+    "name" : "starline-card",
+    "repo" : {
+        "clone_url" : "https://github.com/Anonym-tsk/lovelace-starline-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/Anonym-tsk/lovelace-starline-card",
+    "status" : "active"
+}

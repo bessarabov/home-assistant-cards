@@ -1,0 +1,10 @@
+{
+    "card_id" : "e875adfa3d87",
+    "name" : "bkk-stop-card",
+    "repo" : {
+        "clone_url" : "https://github.com/amaximus/bkk-stop-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/amaximus/bkk-stop-card",
+    "status" : "active"
+}

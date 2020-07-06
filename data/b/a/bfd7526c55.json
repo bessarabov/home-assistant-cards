@@ -1,0 +1,10 @@
+{
+    "card_id" : "babfd7526c55",
+    "name" : "select-list-card",
+    "repo" : {
+        "clone_url" : "https://github.com/mattieha/select-list-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/mattieha/select-list-card",
+    "status" : "active"
+}

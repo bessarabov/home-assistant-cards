@@ -1,0 +1,10 @@
+{
+    "card_id" : "2782d7a1e465",
+    "name" : "xiaomi-vacuum-car",
+    "repo" : {
+        "clone_url" : "https://github.com/benct/lovelace-xiaomi-vacuum-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/benct/lovelace-xiaomi-vacuum-card",
+    "status" : "active"
+}

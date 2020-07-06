@@ -1,0 +1,10 @@
+{
+    "card_id" : "ab0e9c4f6c19",
+    "name" : "mod-card",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-card-mod.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-card-mod",
+    "status" : "active"
+}

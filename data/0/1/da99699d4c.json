@@ -1,0 +1,10 @@
+{
+    "card_id" : "01da99699d4c",
+    "name" : "light-with-profiles",
+    "repo" : {
+        "clone_url" : "https://github.com/tcarlsen/lovelace-light-with-profiles.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/tcarlsen/lovelace-light-with-profiles",
+    "status" : "active"
+}

@@ -1,0 +1,10 @@
+{
+    "card_id" : "bb0f060239ea",
+    "name" : "plant-picture-card",
+    "repo" : {
+        "clone_url" : "https://github.com/badguy99/PlantPictureCard.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/badguy99/PlantPictureCard",
+    "status" : "active"
+}

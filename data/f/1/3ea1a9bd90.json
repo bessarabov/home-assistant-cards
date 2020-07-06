@@ -1,0 +1,10 @@
+{
+    "card_id" : "f13ea1a9bd90",
+    "name" : "fitbit-card",
+    "repo" : {
+        "clone_url" : "https://github.com/ljmerza/fitbit-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/ljmerza/fitbit-card",
+    "status" : "active"
+}

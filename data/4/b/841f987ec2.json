@@ -1,0 +1,10 @@
+{
+    "card_id" : "4b841f987ec2",
+    "name" : "harmony-card",
+    "repo" : {
+        "clone_url" : "https://github.com/sbryfcz/harmony-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/sbryfcz/harmony-card",
+    "status" : "active"
+}

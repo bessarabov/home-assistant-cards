@@ -1,0 +1,10 @@
+{
+    "card_id" : "91350f8eef75",
+    "name" : "tracking-number-card",
+    "repo" : {
+        "clone_url" : "https://github.com/ljmerza/tracking-number-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/ljmerza/tracking-number-card",
+    "status" : "active"
+}

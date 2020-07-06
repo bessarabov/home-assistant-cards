@@ -1,0 +1,10 @@
+{
+    "card_id" : "627fc0b742b7",
+    "name" : "fan-xiaomi",
+    "repo" : {
+        "clone_url" : "https://github.com/fineemb/lovelace-fan-xiaomi.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/fineemb/lovelace-fan-xiaomi",
+    "status" : "active"
+}

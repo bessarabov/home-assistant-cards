@@ -1,0 +1,10 @@
+{
+    "card_id" : "25af0d602b92",
+    "name" : "dual-thermostat",
+    "repo" : {
+        "clone_url" : "https://github.com/enriqg9/dual-thermostat.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/enriqg9/dual-thermostat",
+    "status" : "deprecated"
+}

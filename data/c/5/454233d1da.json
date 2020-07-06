@@ -1,0 +1,10 @@
+{
+    "card_id" : "c5454233d1da",
+    "name" : "card-templater",
+    "repo" : {
+        "clone_url" : "https://github.com/gadgetchnnel/lovelace-card-templater.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/gadgetchnnel/lovelace-card-templater",
+    "status" : "active"
+}

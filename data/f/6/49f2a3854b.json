@@ -1,0 +1,10 @@
+{
+    "card_id" : "f649f2a3854b",
+    "name" : "dummy-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-dummy-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-dummy-entity-row",
+    "status" : "active"
+}

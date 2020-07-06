@@ -1,0 +1,10 @@
+{
+    "card_id" : "cf95bad0da09",
+    "name" : "paper-buttons-row",
+    "repo" : {
+        "clone_url" : "https://github.com/jcwillox/lovelace-paper-buttons-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/jcwillox/lovelace-paper-buttons-row",
+    "status" : "active"
+}

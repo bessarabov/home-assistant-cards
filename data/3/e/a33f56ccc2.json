@@ -1,0 +1,10 @@
+{
+    "card_id" : "3ea33f56ccc2",
+    "name" : "vertical-slider-cover-card",
+    "repo" : {
+        "clone_url" : "https://github.com/konnectedvn/lovelace-vertical-slider-cover-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/konnectedvn/lovelace-vertical-slider-cover-card",
+    "status" : "active"
+}

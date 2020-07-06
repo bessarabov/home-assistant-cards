@@ -1,0 +1,10 @@
+{
+    "card_id" : "f40516ca5870",
+    "name" : "search-card",
+    "repo" : {
+        "clone_url" : "https://github.com/postlund/search-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/postlund/search-card",
+    "status" : "active"
+}

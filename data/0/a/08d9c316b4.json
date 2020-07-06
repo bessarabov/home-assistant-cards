@@ -1,0 +1,10 @@
+{
+    "card_id" : "0a08d9c316b4",
+    "name" : "postnl-card",
+    "repo" : {
+        "clone_url" : "https://github.com/peternijssen/lovelace-postnl-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/peternijssen/lovelace-postnl-card",
+    "status" : "active"
+}

@@ -1,0 +1,10 @@
+{
+    "card_id" : "4ed0de549057",
+    "name" : "battery-entity",
+    "repo" : {
+        "clone_url" : "https://github.com/cbulock/lovelace-battery-entity.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/cbulock/lovelace-battery-entity",
+    "status" : "active"
+}

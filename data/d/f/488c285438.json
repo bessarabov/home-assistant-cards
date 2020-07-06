@@ -1,0 +1,10 @@
+{
+    "card_id" : "df488c285438",
+    "name" : "github-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/benct/lovelace-github-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/benct/lovelace-github-entity-row",
+    "status" : "active"
+}

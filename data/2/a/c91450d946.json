@@ -1,0 +1,10 @@
+{
+    "card_id" : "2ac91450d946",
+    "name" : "tab-redirect-card",
+    "repo" : {
+        "clone_url" : "https://github.com/ben8p/lovelace-tab-redirect-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/ben8p/lovelace-tab-redirect-card",
+    "status" : "active"
+}

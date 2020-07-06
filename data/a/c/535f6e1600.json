@@ -1,0 +1,10 @@
+{
+    "card_id" : "ac535f6e1600",
+    "name" : "garbage-collection-card",
+    "repo" : {
+        "clone_url" : "https://github.com/amaximus/garbage-collection-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/amaximus/garbage-collection-card",
+    "status" : "active"
+}

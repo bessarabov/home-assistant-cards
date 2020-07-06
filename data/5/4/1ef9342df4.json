@@ -1,0 +1,10 @@
+{
+    "card_id" : "541ef9342df4",
+    "name" : "gui-sandbox",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-gui-sandbox.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-gui-sandbox",
+    "status" : "active"
+}

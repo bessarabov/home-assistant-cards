@@ -1,0 +1,10 @@
+{
+    "card_id" : "e6c786bb0ac0",
+    "name" : "our-groceries-card",
+    "repo" : {
+        "clone_url" : "https://github.com/ljmerza/our-groceries-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/ljmerza/our-groceries-card",
+    "status" : "active"
+}

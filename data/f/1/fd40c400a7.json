@@ -1,0 +1,10 @@
+{
+    "card_id" : "f1fd40c400a7",
+    "name" : "tv-card",
+    "repo" : {
+        "clone_url" : "https://github.com/marrobHD/tv-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/marrobHD/tv-card",
+    "status" : "active"
+}

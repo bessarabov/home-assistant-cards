@@ -1,0 +1,10 @@
+{
+    "card_id" : "099a5b385418",
+    "name" : "jumbo-card",
+    "repo" : {
+        "clone_url" : "https://github.com/Voxxie/lovelace-jumbo-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/Voxxie/lovelace-jumbo-card",
+    "status" : "active"
+}

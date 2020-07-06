@@ -1,0 +1,10 @@
+{
+    "card_id" : "b357a7dee7b6",
+    "name" : "fold-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-fold-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-fold-entity-row",
+    "status" : "active"
+}

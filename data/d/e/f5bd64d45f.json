@@ -1,0 +1,10 @@
+{
+    "card_id" : "def5bd64d45f",
+    "name" : "power-wheel-card",
+    "repo" : {
+        "clone_url" : "https://github.com/gurbyz/power-wheel-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/gurbyz/power-wheel-card",
+    "status" : "active"
+}

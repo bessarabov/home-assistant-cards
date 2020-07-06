@@ -1,0 +1,10 @@
+{
+    "card_id" : "e3212aeeb744",
+    "name" : "lovelace-multiline-text-input-card",
+    "repo" : {
+        "clone_url" : "https://github.com/faeibson/lovelace-multiline-text-input-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/faeibson/lovelace-multiline-text-input-card",
+    "status" : "active"
+}

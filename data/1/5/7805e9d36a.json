@@ -1,0 +1,10 @@
+{
+    "card_id" : "157805e9d36a",
+    "name" : "home-feed-card",
+    "repo" : {
+        "clone_url" : "https://github.com/gadgetchnnel/lovelace-home-feed-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/gadgetchnnel/lovelace-home-feed-card",
+    "status" : "active"
+}

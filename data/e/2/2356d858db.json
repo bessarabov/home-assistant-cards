@@ -1,0 +1,10 @@
+{
+    "card_id" : "e22356d858db",
+    "name" : "podcast-card",
+    "repo" : {
+        "clone_url" : "https://github.com/iantrich/podcast-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/iantrich/podcast-card",
+    "status" : "active"
+}

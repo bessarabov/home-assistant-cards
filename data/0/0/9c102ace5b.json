@@ -1,0 +1,10 @@
+{
+    "card_id" : "009c102ace5b",
+    "name" : "atomic-calendar",
+    "repo" : {
+        "clone_url" : "https://github.com/atomic7777/atomic_calendar.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/atomic7777/atomic_calendar",
+    "status" : "deprecated"
+}

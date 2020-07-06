@@ -1,0 +1,10 @@
+{
+    "card_id" : "e6218526c91e",
+    "name" : "config-template-card",
+    "repo" : {
+        "clone_url" : "https://github.com/iantrich/config-template-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/iantrich/config-template-card",
+    "status" : "active"
+}

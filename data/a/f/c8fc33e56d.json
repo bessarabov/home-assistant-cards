@@ -1,0 +1,10 @@
+{
+    "card_id" : "afc8fc33e56d",
+    "name" : "krisinfo-card",
+    "repo" : {
+        "clone_url" : "https://github.com/isabellaalstrom/krisinfo-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/isabellaalstrom/krisinfo-card",
+    "status" : "active"
+}

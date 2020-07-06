@@ -1,0 +1,10 @@
+{
+    "card_id" : "3bd27dfc88e5",
+    "name" : "pvpc-hourly-pricing-card",
+    "repo" : {
+        "clone_url" : "https://github.com/danimart1991/pvpc-hourly-pricing-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/danimart1991/pvpc-hourly-pricing-card",
+    "status" : "active"
+}

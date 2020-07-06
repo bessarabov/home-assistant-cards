@@ -1,0 +1,10 @@
+{
+    "card_id" : "0158ef1e62b7",
+    "name" : "grocy-chores-card",
+    "repo" : {
+        "clone_url" : "https://github.com/isabellaalstrom/lovelace-grocy-chores-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/isabellaalstrom/lovelace-grocy-chores-card",
+    "status" : "active"
+}

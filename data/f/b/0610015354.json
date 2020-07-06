@@ -1,0 +1,10 @@
+{
+    "card_id" : "fb0610015354",
+    "name" : "fkf-garbage-collection-card",
+    "repo" : {
+        "clone_url" : "https://github.com/amaximus/fkf-garbage-collection-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/amaximus/fkf-garbage-collection-card",
+    "status" : "active"
+}

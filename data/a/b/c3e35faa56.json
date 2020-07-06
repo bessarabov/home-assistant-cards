@@ -1,0 +1,10 @@
+{
+    "card_id" : "abc3e35faa56",
+    "name" : "folder-card",
+    "repo" : {
+        "clone_url" : "https://github.com/GeorgeSG/lovelace-folder-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/GeorgeSG/lovelace-folder-card",
+    "status" : "active"
+}

@@ -1,0 +1,10 @@
+{
+    "card_id" : "48971172599a",
+    "name" : "hasl-traffic-status-card",
+    "repo" : {
+        "clone_url" : "https://github.com/hasl-sensor/lovelace-hasl-traffic-status-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/hasl-sensor/lovelace-hasl-traffic-status-card",
+    "status" : "active"
+}

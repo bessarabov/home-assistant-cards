@@ -1,0 +1,10 @@
+{
+    "card_id" : "ca44bb06fb23",
+    "name" : "rotel-card",
+    "repo" : {
+        "clone_url" : "https://github.com/marrobHD/rotel-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/marrobHD/rotel-card",
+    "status" : "active"
+}
