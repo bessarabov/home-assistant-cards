@@ -1,5 +1,6 @@
 {
     "card_id" : "81412998b3b6",
+    "image" : "https://upload.bessarabov.ru/bessarabov/lDUluvsUGuk1IRAiLQyO0XtkgCs.png",
     "name" : "slider-entity-row",
     "repo" : {
         "clone_url" : "https://github.com/thomasloven/lovelace-slider-entity-row.git",
