@@ -1,5 +1,6 @@
 {
     "card_id" : "32a1dc0fa9fb",
+    "image" : "https://upload.bessarabov.ru/bessarabov/hBv0_xQCeUy5COWcsrOBQKBX3E0.png",
     "name" : "button-card",
     "repo" : {
         "clone_url" : "https://github.com/custom-cards/button-card.git",
