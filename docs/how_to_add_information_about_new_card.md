@@ -16,7 +16,7 @@ Here is the minumum valid content of that file:
 
 But you need to put real data into that file:
 
- * `%NAME%` — the name of the card. It is the string that is when when the card is added to Home Assistant UI (`- type: 'custom:animated-consumption-card'`) but without `custom:`
+ * `%NAME%` — the name of the card. It is the string that is used when when the card is added to Home Assistant UI (`- type: 'custom:animated-consumption-card'`) but without `custom:`
  * `%SITE%` — the card url. Usually it is link to GitHub repo, e.g. `https://github.com/bessarabov/animated-consumption-card`
  * `%STATUS%` — it can `active` or `deprecated`. Status `deprecated` should be used only when there is information in thre repositorey that this project is deprecated and/or the GitHub repo is archived. If there is no such info in the repo the status stays `active`, even if there is no recent commits.
 
