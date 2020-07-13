@@ -1,0 +1,10 @@
+{
+    "card_id" : "92d38fa6d3ad",
+    "name" : "attribute-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/benct/lovelace-attribute-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/benct/lovelace-attribute-entity-row",
+    "status" : "active"
+}

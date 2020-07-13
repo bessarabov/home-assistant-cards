@@ -1,0 +1,10 @@
+{
+    "card_id" : "49769ad6da29",
+    "name" : "todoist-task-list",
+    "repo" : {
+        "clone_url" : "https://github.com/tholgir/TodoIst-Task-List.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/tholgir/TodoIst-Task-List",
+    "status" : "active"
+}

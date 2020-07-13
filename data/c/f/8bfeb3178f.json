@@ -1,0 +1,10 @@
+{
+    "card_id" : "cf8bfeb3178f",
+    "name" : "list-card",
+    "repo" : {
+        "clone_url" : "https://github.com/hampusn/lovelace-list-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/hampusn/lovelace-list-card",
+    "status" : "active"
+}

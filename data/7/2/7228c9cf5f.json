@@ -1,0 +1,10 @@
+{
+    "card_id" : "727228c9cf5f",
+    "name" : "nintendo-wishlist-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/nintendo-wishlist-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/nintendo-wishlist-card",
+    "status" : "active"
+}
