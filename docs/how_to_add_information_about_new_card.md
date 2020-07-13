@@ -46,3 +46,5 @@ You can also add field "repo", but it is not required. It can be added only for 
 
 Adding image is optinal. Images are not stored in this repo. So to add image to the card, you need to attach image to the Pull Requst.
 Image will be taken from that PR, uploaded and added to the card info.
+
+Here is document with [more details how to add image](/docs/how_to_add_image.md).
