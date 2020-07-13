@@ -1,6 +1,6 @@
 {
     "card_id" : "def1624d8edf",
-    "name" : "mini-humidifie",
+    "name" : "mini-humidifier",
     "repo" : {
         "clone_url" : "https://github.com/artem-sedykh/mini-humidifier.git",
         "type" : "github"
