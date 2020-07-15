@@ -1,0 +1,10 @@
+{
+    "card_id" : "8774f06dfd03",
+    "name" : "rmv-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/rmv-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/rmv-card",
+    "status" : "active"
+}

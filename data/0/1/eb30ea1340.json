@@ -1,0 +1,10 @@
+{
+    "card_id" : "01eb30ea1340",
+    "name" : "upcoming-media-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/upcoming-media-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/upcoming-media-card",
+    "status" : "active"
+}

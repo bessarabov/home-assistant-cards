@@ -1,0 +1,10 @@
+{
+    "card_id" : "f4fa24f35101",
+    "name" : "check-button-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/check-button-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/check-button-card",
+    "status" : "active"
+}

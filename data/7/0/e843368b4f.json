@@ -1,0 +1,10 @@
+{
+    "card_id" : "70e843368b4f",
+    "name" : "unused-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/unused-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/unused-card",
+    "status" : "active"
+}

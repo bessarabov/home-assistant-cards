@@ -1,0 +1,10 @@
+{
+    "card_id" : "20a6489b7747",
+    "name" : "surveillance-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/surveillance-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/surveillance-card",
+    "status" : "active"
+}

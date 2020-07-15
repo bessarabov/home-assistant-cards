@@ -1,0 +1,10 @@
+{
+    "card_id" : "4f135d32104f",
+    "name" : "username-element",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/username-element.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/username-element",
+    "status" : "active"
+}

@@ -1,0 +1,10 @@
+{
+    "card_id" : "732c1d27eb56",
+    "name" : "bignumber-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/bignumber-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/bignumber-card",
+    "status" : "active"
+}

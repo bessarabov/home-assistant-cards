@@ -1,0 +1,10 @@
+{
+    "card_id" : "41d130b280eb",
+    "name" : "tracker-card",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/tracker-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/tracker-card",
+    "status" : "active"
+}

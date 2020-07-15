@@ -1,0 +1,10 @@
+{
+    "card_id" : "66cf2b151832",
+    "name" : "light-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/light-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/light-entity-row",
+    "status" : "active"
+}

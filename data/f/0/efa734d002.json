@@ -1,0 +1,10 @@
+{
+    "card_id" : "f0efa734d002",
+    "name" : "plan-coordinates",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/plan-coordinates.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/plan-coordinates",
+    "status" : "active"
+}

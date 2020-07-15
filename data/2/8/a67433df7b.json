@@ -1,0 +1,10 @@
+{
+    "card_id" : "28a67433df7b",
+    "name" : "state-element",
+    "repo" : {
+        "clone_url" : "https://github.com/custom-cards/state-element.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/custom-cards/state-element",
+    "status" : "active"
+}
