@@ -1,5 +1,6 @@
 {
     "card_id" : "7e7644192afe",
+    "image" : "https://upload.bessarabov.ru/bessarabov/1QaLl6A6mVQzIWmRY_6vPiTtvMQ.png",
     "name" : "shutter-card",
     "repo" : {
         "clone_url" : "https://github.com/Deejayfool/hass-shutter-card.git",
