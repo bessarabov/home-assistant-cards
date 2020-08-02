@@ -1,5 +1,6 @@
 {
     "card_id" : "183f20d870fd",
+    "image" : "https://upload.bessarabov.ru/bessarabov/VaGovOeDrIcAPyacl0cblbMx7nk.png",
     "name" : "clock-card",
     "repo" : {
         "clone_url" : "https://github.com/Villhellm/lovelace-clock-card.git",
