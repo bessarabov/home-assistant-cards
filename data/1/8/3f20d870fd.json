@@ -1,0 +1,10 @@
+{
+    "card_id" : "183f20d870fd",
+    "name" : "clock-card",
+    "repo" : {
+        "clone_url" : "https://github.com/Villhellm/lovelace-clock-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/Villhellm/lovelace-clock-card",
+    "status" : "active"
+}
