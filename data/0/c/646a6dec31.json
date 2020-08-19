@@ -1,0 +1,10 @@
+{
+    "card_id" : "0c646a6dec31",
+    "name" : "compass-card",
+    "repo" : {
+        "clone_url" : "https://github.com/tomvanswam/compass-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/tomvanswam/compass-card",
+    "status" : "active"
+}
