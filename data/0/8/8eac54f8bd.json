@@ -1,0 +1,10 @@
+{
+    "card_id" : "088eac54f8bd",
+    "name" : "slider-card",
+    "repo" : {
+        "clone_url" : "https://github.com/AnthonMS/ha-slider-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/AnthonMS/ha-slider-card",
+    "status" : "active"
+}
