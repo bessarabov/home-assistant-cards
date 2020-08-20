@@ -1,0 +1,10 @@
+{
+    "card_id" : "b102c623b01d",
+    "name" : "scheduler-card",
+    "repo" : {
+        "clone_url" : "https://github.com/nielsfaber/scheduler-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/nielsfaber/scheduler-card",
+    "status" : "active"
+}
