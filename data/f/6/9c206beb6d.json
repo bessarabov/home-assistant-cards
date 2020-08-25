@@ -1,5 +1,6 @@
 {
     "card_id" : "f69c206beb6d",
+    "image" : "https://upload.bessarabov.ru/bessarabov/2HuTUnzvoCuEtJoSA8035iWW9oE.png",
     "name" : "tempometer-gauge-card",
     "repo" : {
         "clone_url" : "https://github.com/SNoof85/lovelace-tempometer-gauge-card.git",
