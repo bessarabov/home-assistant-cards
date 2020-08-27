@@ -1,0 +1,10 @@
+{
+    "card_id" : "6b3a5b2636f2",
+    "name" : "iphone-6-card",
+    "repo" : {
+        "clone_url" : "https://github.com/pasleto/lovelace-iphone-6-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/pasleto/lovelace-iphone-6-card",
+    "status" : "active"
+}

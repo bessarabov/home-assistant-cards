@@ -1,0 +1,10 @@
+{
+    "card_id" : "5c9fd5e3a4b4",
+    "name" : "spotify-playlist-card",
+    "repo" : {
+        "clone_url" : "https://github.com/dnguyen800/spotify-playlist-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/dnguyen800/spotify-playlist-card",
+    "status" : "active"
+}

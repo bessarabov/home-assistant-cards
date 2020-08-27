@@ -1,0 +1,10 @@
+{
+    "card_id" : "361ab04154f2",
+    "name" : "chartjs-card",
+    "repo" : {
+        "clone_url" : "https://github.com/ricreis394/chartjs-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/ricreis394/chartjs-card",
+    "status" : "active"
+}

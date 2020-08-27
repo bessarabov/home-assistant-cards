@@ -1,0 +1,10 @@
+{
+    "card_id" : "1198af1e80aa",
+    "name" : "lovelace-roomba-e5-card",
+    "repo" : {
+        "clone_url" : "https://github.com/pasleto/lovelace-roomba-e5-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/pasleto/lovelace-roomba-e5-card",
+    "status" : "active"
+}

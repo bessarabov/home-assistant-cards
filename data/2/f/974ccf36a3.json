@@ -1,0 +1,10 @@
+{
+    "card_id" : "2f974ccf36a3",
+    "name" : "mbta-card",
+    "repo" : {
+        "clone_url" : "https://github.com/dhanani94/mbta-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/dhanani94/mbta-card",
+    "status" : "active"
+}

@@ -1,0 +1,10 @@
+{
+    "card_id" : "d79045d019b1",
+    "name" : "mail-and-packages-card",
+    "repo" : {
+        "clone_url" : "https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/moralmunky/Home-Assistant-Mail-And-Packages-Custom-Card",
+    "status" : "active"
+}

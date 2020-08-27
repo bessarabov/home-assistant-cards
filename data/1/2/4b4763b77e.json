@@ -1,0 +1,10 @@
+{
+    "card_id" : "124b4763b77e",
+    "name" : "grocy-chores-card",
+    "repo" : {
+        "clone_url" : "https://github.com/BlueBlueBlob/lovelace-gtasks-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/BlueBlueBlob/lovelace-gtasks-card",
+    "status" : "active"
+}

@@ -1,0 +1,10 @@
+{
+    "card_id" : "34f53a2df709",
+    "name" : "smartfan-xiaomi",
+    "repo" : {
+        "clone_url" : "https://github.com/iwzoo/lovelace-xiaomi-smartfan.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/iwzoo/lovelace-xiaomi-smartfan",
+    "status" : "active"
+}

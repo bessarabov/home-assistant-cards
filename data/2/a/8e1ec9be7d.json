@@ -1,0 +1,10 @@
+{
+    "card_id" : "2a8e1ec9be7d",
+    "name" : "wral-weather-card",
+    "repo" : {
+        "clone_url" : "https://github.com/tommyjlong/wral-weather-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/tommyjlong/wral-weather-card",
+    "status" : "active"
+}

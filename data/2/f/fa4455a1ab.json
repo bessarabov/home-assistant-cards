@@ -1,0 +1,10 @@
+{
+    "card_id" : "2ffa4455a1ab",
+    "name" : "au190-thermostat-card",
+    "repo" : {
+        "clone_url" : "https://github.com/au190/au190_thermostat_card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/au190/au190_thermostat_card",
+    "status" : "active"
+}

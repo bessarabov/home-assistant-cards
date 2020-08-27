@@ -1,0 +1,10 @@
+{
+    "card_id" : "0f0ca893f5c5",
+    "name" : "thermostat-preset-row",
+    "repo" : {
+        "clone_url" : "https://github.com/lorenzlars/lovelace-thermostat-preset-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/lorenzlars/lovelace-thermostat-preset-row",
+    "status" : "active"
+}

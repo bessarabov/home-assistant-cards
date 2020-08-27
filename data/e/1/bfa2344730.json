@@ -1,0 +1,10 @@
+{
+    "card_id" : "e1bfa2344730",
+    "name" : "linky-card",
+    "repo" : {
+        "clone_url" : "https://github.com/royto/linky-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/royto/linky-card",
+    "status" : "active"
+}

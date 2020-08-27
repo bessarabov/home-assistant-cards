@@ -1,0 +1,10 @@
+{
+    "card_id" : "6c88cac39e5e",
+    "name" : "analog-clock-card",
+    "repo" : {
+        "clone_url" : "https://github.com/aidanblack/analog-clock-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/aidanblack/analog-clock-card",
+    "status" : "active"
+}

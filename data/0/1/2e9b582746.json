@@ -1,0 +1,10 @@
+{
+    "card_id" : "012e9b582746",
+    "name" : "lovelace-remote-card",
+    "repo" : {
+        "clone_url" : "https://github.com/fineemb/lovelace-remote-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/fineemb/lovelace-remote-card",
+    "status" : "active"
+}
