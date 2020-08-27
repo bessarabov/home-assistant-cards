@@ -1,0 +1,10 @@
+{
+    "card_id" : "fda1cc0f9d90",
+    "name" : "toggle-lock-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/thomasloven/lovelace-toggle-lock-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/thomasloven/lovelace-toggle-lock-entity-row",
+    "status" : "deprecated"
+}
