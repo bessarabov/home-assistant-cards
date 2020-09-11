@@ -1,5 +1,6 @@
 {
     "card_id" : "96f35f3f5dc5",
+    "image" : "https://upload.bessarabov.ru/bessarabov/PpEOP31NxwZucJYRYAcqBOYszoY.png",
     "name" : "vacuum-card",
     "repo" : {
         "clone_url" : "https://github.com/denysdovhan/vacuum-card.git",
