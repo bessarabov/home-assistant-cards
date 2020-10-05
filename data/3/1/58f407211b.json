@@ -1,0 +1,10 @@
+{
+    "card_id" : "3158f407211b",
+    "name" : "purifier-card",
+    "repo" : {
+        "clone_url" : "https://github.com/denysdovhan/purifier-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/denysdovhan/purifier-card",
+    "status" : "active"
+}
