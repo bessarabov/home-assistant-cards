@@ -1,0 +1,10 @@
+{
+    "card_id" : "566c1564d6ea",
+    "name" : "weather-card-chart",
+    "repo" : {
+        "clone_url" : "https://github.com/Yevgenium/lovelace-weather-card-chart.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/Yevgenium/lovelace-weather-card-chart",
+    "status" : "active"
+}
