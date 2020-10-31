@@ -1,0 +1,10 @@
+{
+    "card_id" : "a4749fe8f95",
+    "name" : "audio-recorder-card",
+    "repo" : {
+        "clone_url" : "https://github.com/spifitu/home-assistant-recorder-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/spifitu/home-assistant-recorder-card",
+    "status" : "active"
+}
