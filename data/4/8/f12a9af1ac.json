@@ -1,0 +1,10 @@
+{
+    "card_id" : "48f12a9af1ac",
+    "name" : "auto-reload-card",
+    "repo" : {
+        "clone_url" : "https://github.com/ben8p/lovelace-auto-reload-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/ben8p/lovelace-auto-reload-card",
+    "status" : "active"
+}
