@@ -1,0 +1,10 @@
+{
+    "card_id" : "d7c2e48d2619",
+    "name" : "homekit-card",
+    "repo" : {
+        "clone_url" : "https://github.com/DBuit/Homekit-panel-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/DBuit/Homekit-panel-card",
+    "status" : "active"
+}
