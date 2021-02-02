@@ -1,0 +1,10 @@
+{
+    "card_id" : "ff4cd50e7e3d",
+    "name" : "apexcharts-card",
+    "repo" : {
+        "clone_url" : "https://github.com/RomRider/apexcharts-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/RomRider/apexcharts-card",
+    "status" : "active"
+}
