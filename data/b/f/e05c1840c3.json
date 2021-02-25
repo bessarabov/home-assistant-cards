@@ -1,0 +1,11 @@
+{
+    "card_id" : "bfe05c1840c3",
+    "image" : "https://upload.bessarabov.ru/bessarabov/zjOfqJEBRW3InP9k-yIutsfKTSk.png",
+    "name" : "simple-button-entity-row",
+    "repo" : {
+        "clone_url" : "https://github.com/bessarabov/simple-button-entity-row.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/bessarabov/simple-button-entity-row",
+    "status" : "active"
+}
