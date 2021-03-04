@@ -1,0 +1,11 @@
+{
+    "card_id" : "3745762f1135",
+    "image" : "https://upload.bessarabov.ru/bessarabov/3v4EkNBsuFK9aWN2hL0cY_c4-VQ.png",
+    "name" : "numberbox-card",
+    "repo" : {
+        "clone_url" : "https://github.com/htmltiger/numberbox-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/htmltiger/numberbox-card",
+    "status" : "active"
+}
