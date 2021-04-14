@@ -1,0 +1,11 @@
+{
+    "card_id" : "716b9e27b9b3",
+    "image" : "https://upload.bessarabov.ru/bessarabov/eW58zbWgEDkFeG5FBPTpIPBM5VQ.png",
+    "name" : "simple-clock-card",
+    "repo" : {
+        "clone_url" : "https://github.com/fufar/simple-clock-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/fufar/simple-clock-card",
+    "status" : "active"
+}
