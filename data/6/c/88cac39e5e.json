@@ -1,5 +1,6 @@
 {
     "card_id" : "6c88cac39e5e",
+    "image" : "https://upload.bessarabov.ru/bessarabov/iOoRMyQHFxafqT8sJmWSaU5HyJw.png",
     "name" : "analog-clock-card",
     "repo" : {
         "clone_url" : "https://github.com/aidanblack/analog-clock-card.git",
