@@ -1,0 +1,10 @@
+{
+    "card_id" : "1179f8dd9176",
+    "name" : "custom-smart-home-panel-card",
+    "repo" : {
+        "clone_url" : "https://github.com/DBuit/hass-smart-home-panel-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/DBuit/hass-smart-home-panel-card",
+    "status" : "active"
+}
