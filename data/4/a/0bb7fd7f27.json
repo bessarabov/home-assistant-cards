@@ -1,0 +1,10 @@
+{
+    "card_id" : "4a0bb7fd7f27",
+    "name" : "janus-camera",
+    "repo" : {
+        "clone_url" : "https://github.com/jurriaan/janus-stream-custom-component.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/jurriaan/janus-stream-custom-component",
+    "status" : "active"
+}
