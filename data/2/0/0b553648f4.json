@@ -1,0 +1,10 @@
+{
+    "card_id" : "200b553648f4",
+    "name" : "power-distribution-card",
+    "repo" : {
+        "clone_url" : "https://github.com/JonahKr/power-distribution-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/JonahKr/power-distribution-card",
+    "status" : "active"
+}
