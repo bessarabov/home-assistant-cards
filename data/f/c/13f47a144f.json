@@ -1,0 +1,10 @@
+{
+    "card_id" : "fc13f47a144f",
+    "name" : "alarm-clock-card",
+    "repo" : {
+        "clone_url" : "https://github.com/rdehuyss/homeassistant-lovelace-alarm-clock-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/rdehuyss/homeassistant-lovelace-alarm-clock-card",
+    "status" : "active"
+}
