@@ -1,0 +1,10 @@
+{
+    "card_id" : "757ed4865682",
+    "name" : "birthday-card",
+    "repo" : {
+        "clone_url" : "https://github.com/erlsta/homeassistant-lovelace-birthday-reminder-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/erlsta/homeassistant-lovelace-birthday-reminder-card",
+    "status" : "active"
+}
