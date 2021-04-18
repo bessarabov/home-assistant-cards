@@ -1,0 +1,10 @@
+{
+    "card_id" : "b26b786a659a",
+    "name" : "notify-card",
+    "repo" : {
+        "clone_url" : "https://github.com/bernikr/lovelace-notify-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/bernikr/lovelace-notify-card",
+    "status" : "active"
+}
