@@ -1,0 +1,10 @@
+{
+    "card_id" : "d1069b58a519",
+    "name" : "icloud3-event-log-card",
+    "repo" : {
+        "clone_url" : "https://github.com/gcobb321/icloud3.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/gcobb321/icloud3",
+    "status" : "active"
+}
