@@ -1,0 +1,10 @@
+{
+    "card_id" : "d6006a3f455d",
+    "name" : "alarmo-card",
+    "repo" : {
+        "clone_url" : "https://github.com/nielsfaber/alarmo.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/nielsfaber/alarmo",
+    "status" : "active"
+}
