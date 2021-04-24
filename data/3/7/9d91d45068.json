@@ -1,0 +1,10 @@
+{
+    "card_id" : "379d91d45068",
+    "name" : "pollenprognos-card",
+    "repo" : {
+        "clone_url" : "https://github.com/isabellaalstrom/lovelace-pollenprognos-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/isabellaalstrom/lovelace-pollenprognos-card",
+    "status" : "active"
+}
