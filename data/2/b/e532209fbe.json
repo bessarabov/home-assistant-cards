@@ -1,0 +1,10 @@
+{
+    "card_id" : "2be532209fbe",
+    "name" : "next-bus-card",
+    "repo" : {
+        "clone_url" : "https://github.com/davidorlea/homeassistant-next_bus_card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/davidorlea/homeassistant-next_bus_card",
+    "status" : "active"
+}
