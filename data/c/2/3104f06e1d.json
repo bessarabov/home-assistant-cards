@@ -1,0 +1,10 @@
+{
+    "card_id" : "c23104f06e1d",
+    "name" : "flower-card",
+    "repo" : {
+        "clone_url" : "https://github.com/MarioMH8/lovelace-flower-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/MarioMH8/lovelace-flower-card",
+    "status" : "active"
+}
