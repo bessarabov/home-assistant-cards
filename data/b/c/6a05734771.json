@@ -1,5 +1,6 @@
 {
     "card_id" : "bc6a05734771",
+    "image" : "https://upload.bessarabov.ru/bessarabov/QnaSPOXQVxVYGk59G4VLatFtmfA.png",
     "name" : "meteoalarm-card",
     "repo" : {
         "clone_url" : "https://github.com/MrBartusek/MeteoalarmCard.git",
