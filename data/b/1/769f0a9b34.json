@@ -1,0 +1,10 @@
+{
+    "card_id" : "b1769f0a9b34",
+    "name" : "pandora-cas-card",
+    "repo" : {
+        "clone_url" : "https://github.com/turbulator/pandora-cas-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/turbulator/pandora-cas-card",
+    "status" : "active"
+}
