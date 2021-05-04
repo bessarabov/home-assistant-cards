@@ -1,0 +1,10 @@
+{
+    "card_id" : "5428894cc13d",
+    "name" : "charger-card",
+    "repo" : {
+        "clone_url" : "https://github.com/tmjo/charger-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/tmjo/charger-card",
+    "status" : "active"
+}
