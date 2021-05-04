@@ -1,0 +1,10 @@
+{
+    "card_id" : "5cacc5a8061a",
+    "name" : "thermostat-dark-card",
+    "repo" : {
+        "clone_url" : "https://github.com/ciotlosm/lovelace-thermostat-dark-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/ciotlosm/lovelace-thermostat-dark-card",
+    "status" : "active"
+}
