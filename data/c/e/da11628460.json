@@ -1,0 +1,10 @@
+{
+    "card_id" : "ceda11628460",
+    "name" : "au190-mqtt_card",
+    "repo" : {
+        "clone_url" : "https://github.com/au190/au190_mqtt_dynamic_switch.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/au190/au190_mqtt_dynamic_switch",
+    "status" : "active"
+}
