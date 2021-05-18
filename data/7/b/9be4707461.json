@@ -1,5 +1,6 @@
 {
     "card_id" : "7b9be4707461",
+    "image" : "https://upload.bessarabov.ru/bessarabov/xROyVOjYUt7WXfdSpi-IuyLRzBQ.png",
     "name" : "sun-card",
     "repo" : {
         "clone_url" : "https://github.com/AitorDB/home-assistant-sun-card.git",
