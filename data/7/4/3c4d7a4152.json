@@ -1,0 +1,10 @@
+{
+    "card_id" : "743c4d7a4152",
+    "name" : "collapsable-cards",
+    "repo" : {
+        "clone_url" : "https://github.com/RossMcMillan92/lovelace-collapsable-cards.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/RossMcMillan92/lovelace-collapsable-cards",
+    "status" : "active"
+}
