@@ -1,0 +1,10 @@
+{
+    "card_id" : "0764875bf465",
+    "name" : "digital-clock",
+    "repo" : {
+        "clone_url" : "https://github.com/wassy92x/lovelace-digital-clock.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/wassy92x/lovelace-digital-clock",
+    "status" : "active"
+}
