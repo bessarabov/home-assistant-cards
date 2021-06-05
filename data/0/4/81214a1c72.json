@@ -1,0 +1,10 @@
+{
+    "card_id" : "0481214a1c72",
+    "name" : "threedy-card",
+    "repo" : {
+        "clone_url" : "https://github.com/dangreco/threedy.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/dangreco/threedy",
+    "status" : "active"
+}
