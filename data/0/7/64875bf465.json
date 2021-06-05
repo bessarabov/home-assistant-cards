@@ -1,5 +1,6 @@
 {
     "card_id" : "0764875bf465",
+    "image" : "https://upload.bessarabov.ru/bessarabov/zxP757rO_BPmYr2_VQGdByDJ1fc.png",
     "name" : "digital-clock",
     "repo" : {
         "clone_url" : "https://github.com/wassy92x/lovelace-digital-clock.git",
