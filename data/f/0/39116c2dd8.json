@@ -1,0 +1,10 @@
+{
+    "card_id" : "f039116c2dd8",
+    "name" : "tuya-vacuum-card",
+    "repo" : {
+        "clone_url" : "https://github.com/rikman122/tuya-vacuum-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/rikman122/tuya-vacuum-card",
+    "status" : "active"
+}
