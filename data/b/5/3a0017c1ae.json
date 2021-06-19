@@ -1,0 +1,10 @@
+{
+    "card_id" : "b53a0017c1ae",
+    "name" : "opensprinkler-card",
+    "repo" : {
+        "clone_url" : "https://github.com/rianadon/opensprinkler-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/rianadon/opensprinkler-card",
+    "status" : "active"
+}
