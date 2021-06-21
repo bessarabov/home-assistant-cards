@@ -1,0 +1,10 @@
+{
+    "card_id" : "f7cbd42dcd65",
+    "name" : "dark-sky-weather-card",
+    "repo" : {
+        "clone_url" : "https://github.com/poisondima/dark-sky-weather-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/poisondima/dark-sky-weather-card",
+    "status" : "active"
+}
