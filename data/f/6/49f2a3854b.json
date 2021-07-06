@@ -6,7 +6,7 @@
         "type" : "github"
     },
     "site" : "https://github.com/thomasloven/lovelace-dummy-entity-row",
-    "status" : "active",
+    "status" : "deprecated",
     "tags" : [
         "entity-row"
     ]
