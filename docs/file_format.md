@@ -12,7 +12,10 @@ Here is an example of json file with information about some Home Assistant card:
         "type" : "github"
     },
     "site" : "https://github.com/bessarabov/animated-consumption-card",
-    "status" : "active"
+    "status" : "active",
+    "tags" : [
+        "consumption"
+    ]
 }
 ```
 
@@ -24,6 +27,7 @@ Here is an example of json file with information about some Home Assistant card:
 | `status` | The string `active`, `deprecated` or `deleted`. Status `deprecated` is used only when there is information in thre repositorey that this project is deprecated and/or the GitHub repo is archived. If there is no such info in the repo the status stays `active`, even if there is no recent commits. |
 | `image` | Url with the card sample image. The format must be `png`. This field is optional. |
 | `repo` | This is an optinal field. The value is the json object with data about the repo. In that object there must be field `type`. Other fields in the objects depends of the `type`. Now there is only one possible `type`: `github`, but in the future other types can be introduced. |
+| `tags` | This is an optinal field. The value is the json array with strings. |
 
 ## `repo` with type `github`
 
