@@ -1,10 +1,14 @@
 {
     "card_id" : "43f12e4a3cca",
+    "image" : "https://upload.bessarabov.ru/bessarabov/26Kgx93hqTsvm_3uA1wkovaZ5ak.png",
     "name" : "timer-bar-card",
     "repo" : {
         "clone_url" : "https://github.com/rianadon/timer-bar-card.git",
         "type" : "github"
     },
     "site" : "https://github.com/rianadon/timer-bar-card",
-    "status" : "active"
+    "status" : "active",
+    "tags" : [
+        "entity-row"
+    ]
 }
