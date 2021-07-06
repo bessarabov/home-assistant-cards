@@ -1,11 +1,11 @@
 {
-	"card_id" : "ce4d8d50ba64",
-	"name" : "uptime-card",
-	"repo" : {
-		"clone_url" : "https://github.com/dylandoamaral/uptime-card.git",
-		"type" : "github"
-	},
-	"site" : "https://github.com/dylandoamaral/uptime-card",
-	"status" : "active",
-    "image" : "https://upload.bessarabov.ru/bessarabov/eV-CWZFMf7e-sZ75Sm9zgyeLF6I.png"
+    "card_id" : "ce4d8d50ba64",
+    "image" : "https://upload.bessarabov.ru/bessarabov/eV-CWZFMf7e-sZ75Sm9zgyeLF6I.png",
+    "name" : "uptime-card",
+    "repo" : {
+        "clone_url" : "https://github.com/dylandoamaral/uptime-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/dylandoamaral/uptime-card",
+    "status" : "active"
 }
