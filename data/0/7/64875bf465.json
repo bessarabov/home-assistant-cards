@@ -7,5 +7,8 @@
         "type" : "github"
     },
     "site" : "https://github.com/wassy92x/lovelace-digital-clock",
-    "status" : "active"
+    "status" : "active",
+    "tags" : [
+        "clock"
+    ]
 }

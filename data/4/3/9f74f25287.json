@@ -6,5 +6,9 @@
         "type" : "github"
     },
     "site" : "https://github.com/piitaya/lovelace-climate-mode-entity-row",
-    "status" : "active"
+    "status" : "active",
+    "tags" : [
+        "climate",
+        "entity-row"
+    ]
 }

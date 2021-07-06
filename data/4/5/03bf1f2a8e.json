@@ -6,5 +6,8 @@
         "type" : "github"
     },
     "site" : "https://github.com/artem-sedykh/mini-climate-card",
-    "status" : "active"
+    "status" : "active",
+    "tags" : [
+        "climate"
+    ]
 }

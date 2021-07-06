@@ -6,5 +6,8 @@
         "type" : "github"
     },
     "site" : "https://github.com/thomasloven/lovelace-fold-entity-row",
-    "status" : "active"
+    "status" : "active",
+    "tags" : [
+        "entity-row"
+    ]
 }
