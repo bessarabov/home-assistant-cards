@@ -1,0 +1,13 @@
+{
+    "card_id" : "dc256043fcde",
+    "name" : "kanji-clock-card",
+    "repo" : {
+        "clone_url" : "https://github.com/sopelj/lovelace-kanji-clock-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/sopelj/lovelace-kanji-clock-card",
+    "status" : "active",
+    "tags" : [
+        "clock"
+    ]
+}
