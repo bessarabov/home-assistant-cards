@@ -1,0 +1,13 @@
+{
+    "card_id" : "1a47031777cc",
+    "name" : "analog-clock",
+    "repo" : {
+        "clone_url" : "https://github.com/tomasrudh/analogclock.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/tomasrudh/analogclock",
+    "status" : "active",
+    "tags" : [
+        "clock"
+    ]
+}
