@@ -1,0 +1,10 @@
+{
+    "card_id" : "66b84938ec9f",
+    "name" : "homeseer-wd200-status-card",
+    "repo" : {
+        "clone_url" : "https://github.com/rodpayne/home-assistant.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/rodpayne/home-assistant",
+    "status" : "active"
+}
