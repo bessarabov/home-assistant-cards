@@ -1,0 +1,10 @@
+{
+    "card_id" : "e4dac37a99dd",
+    "name" : "mm2-clock-card",
+    "repo" : {
+        "clone_url" : "https://github.com/shbatm/mm2-clock-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/shbatm/mm2-clock-card",
+    "status" : "active"
+}
