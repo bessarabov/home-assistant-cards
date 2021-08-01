@@ -1,0 +1,10 @@
+{
+    "card_id" : "38e38ebdba77",
+    "name" : "bosch-indego-card",
+    "repo" : {
+        "clone_url" : "https://github.com/xguitoux/lovelace-bosch-indego-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/xguitoux/lovelace-bosch-indego-card",
+    "status" : "active"
+}
