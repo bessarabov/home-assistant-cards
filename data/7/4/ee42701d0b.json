@@ -1,0 +1,10 @@
+{
+    "card_id" : "74ee42701d0b",
+    "name" : "aria2-card",
+    "repo" : {
+        "clone_url" : "https://github.com/deblockt/aria2-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/deblockt/aria2-card",
+    "status" : "active"
+}
