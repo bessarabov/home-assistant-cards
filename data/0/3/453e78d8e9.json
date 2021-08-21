@@ -1,0 +1,10 @@
+{
+    "card_id" : "03453e78d8e9",
+    "name" : "frigate-card",
+    "repo" : {
+        "clone_url" : "https://github.com/dermotduffy/frigate-hass-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/dermotduffy/frigate-hass-card",
+    "status" : "active"
+}
