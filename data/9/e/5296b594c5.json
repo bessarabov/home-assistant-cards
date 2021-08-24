@@ -1,0 +1,10 @@
+{
+    "card_id" : "9e5296b594c5",
+    "name" : "weather-chart-card",
+    "repo" : {
+        "clone_url" : "https://github.com/Yevgenium/weather-chart-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/Yevgenium/weather-chart-card",
+    "status" : "active"
+}
