@@ -1,0 +1,10 @@
+{
+    "card_id" : "8a9916b7726c",
+    "name" : "dimmer-button",
+    "repo" : {
+        "clone_url" : "https://github.com/tonyflowed/dimmer-button.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/tonyflowed/dimmer-button",
+    "status" : "active"
+}
