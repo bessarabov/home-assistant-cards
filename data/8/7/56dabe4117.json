@@ -1,0 +1,10 @@
+{
+    "card_id" : "8756dabe4117",
+    "name" : "flower-card-cpha",
+    "repo" : {
+        "clone_url" : "https://github.com/luisleonardo/lovelace-flower-card-cpha.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/luisleonardo/lovelace-flower-card-cpha",
+    "status" : "active"
+}
