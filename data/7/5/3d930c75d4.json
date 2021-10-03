@@ -1,0 +1,10 @@
+{
+    "card_id" : "753d930c75d4",
+    "name" : "bom-radar-card",
+    "repo" : {
+        "clone_url" : "https://github.com/Makin-Things/bom-radar-card.git",
+        "type" : "github"
+    },
+    "site" : "https://github.com/Makin-Things/bom-radar-card",
+    "status" : "active"
+}
