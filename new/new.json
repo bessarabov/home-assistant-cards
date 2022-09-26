@@ -1,0 +1,9 @@
+{
+    "name": "meteo-france-next-rain",
+    "site": "https://github.com/nyroDev/home-assistant-meteo-france-next-rain-card",
+    "repo": {
+        "clone_url": "https://github.com/nyroDev/home-assistant-meteo-france-next-rain-card.git",
+        "type": "github"
+    },
+    "status": "active"
+}
